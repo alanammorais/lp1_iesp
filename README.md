@@ -9,7 +9,7 @@
 ### Horários / Local
 
 * Horários:
-  - **Quartas (19:00-22:00)** - Lab 01.
+  - **Quartas (19:00-22:00)** - Virtual.
 
 ## Comunicação
 
@@ -24,8 +24,8 @@ Enviar via Google Classroom
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1)
-* Avaliação II (Projeto + Prova 2)
+* Avaliação I 
+* Avaliação II 
 
 * Reposição
 * Final
