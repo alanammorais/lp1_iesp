@@ -1,6 +1,6 @@
 # Linguagem de Programação I
 
-## Iesp Faculdades
+## Centro Universitário Uniesp
 
 ### Professora
 
